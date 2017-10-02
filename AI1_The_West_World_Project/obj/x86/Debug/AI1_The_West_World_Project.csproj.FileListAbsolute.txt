@@ -1,0 +1,5 @@
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] Game AI\AI1_The_West_World_Project\AI1_The_West_World_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] Game AI\AI1_The_West_World_Project\AI1_The_West_World_Project\bin\Debug\AI1_The_West_World_Project.exe
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] Game AI\AI1_The_West_World_Project\AI1_The_West_World_Project\bin\Debug\AI1_The_West_World_Project.pdb
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] Game AI\AI1_The_West_World_Project\AI1_The_West_World_Project\obj\x86\Debug\AI1_The_West_World_Project.exe
+C:\Documents and Settings\dl1\Мои документы\НИКИТА\старое\ВЛАД\Опись приказов 2014 год\Номенклатура\Projects CS\[Projects] Game AI\AI1_The_West_World_Project\AI1_The_West_World_Project\obj\x86\Debug\AI1_The_West_World_Project.pdb
